@@ -22,4 +22,4 @@ ng serve
 
 #### <a href="https://ej2.syncfusion.com/showcase/angular/expensetracker/" target="_blank">https://ej2.syncfusion.com/showcase/angular/expensetracker/</a>
 
-Check all the showcase samples from <a href="https://ej2.syncfusion.com/home/angular.html" target="_blank">here</a>.
+
